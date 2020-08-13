@@ -524,7 +524,7 @@
     "set-value": "^2.0.1",
     "shallow-clone": "^3.0.1",
     "sha.js": "^2.4.11",
-    "serialize-javascript": "^2.1.2",
+    "serialize-javascript": "^3.1.0",
     "signal-exit": "^3.0.3",
     "snapdragon": "^0.8.2",
     "send": "^0.17.1",
