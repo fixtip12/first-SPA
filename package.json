@@ -246,7 +246,7 @@
     "iferr": "^0.1.5",
     "ieee754": "^1.1.13",
     "icss-utils": "^2.1.0",
-    "http-proxy": "^1.18.0",
+    "http-proxy": "^1.18.1",
     "import-cwd": "^2.1.0",
     "ignore": "^3.3.10",
     "icss-replace-symbols": "^1.1.0",
