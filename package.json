@@ -152,7 +152,7 @@
     "dotenv": "^6.2.0",
     "duplexify": "^3.7.1",
     "dotenv-expand": "^4.2.0",
-    "elliptic": "^6.5.2",
+    "elliptic": "^6.5.4",
     "decode-uri-component": "^0.2.0",
     "end-of-stream": "^1.4.4",
     "emojis-list": "^3.0.0",
