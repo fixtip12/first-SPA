@@ -286,7 +286,7 @@
     "is-path-in-cwd": "^2.1.0",
     "is-symbol": "^1.0.3",
     "is-wsl": "^1.1.0",
-    "is-svg": "^3.0.0",
+    "is-svg": "^4.2.2",
     "isarray": "^1.0.0",
     "is-plain-object": "^2.0.4",
     "is-fullwidth-code-point": "^2.0.0",
