@@ -416,7 +416,7 @@
     "postcss-convert-values": "^4.0.1",
     "pbkdf2": "^3.0.17",
     "postcss-calc": "^7.0.2",
-    "postcss": "^7.0.29",
+    "postcss": "^8.2.10",
     "postcss-discard-comments": "^4.0.2",
     "postcss-discard-duplicates": "^4.0.2",
     "pkg-dir": "^3.0.0",
