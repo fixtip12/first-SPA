@@ -140,7 +140,7 @@
     "csso": "^4.0.3",
     "des.js": "^1.0.1",
     "detect-file": "^1.0.0",
-    "dns-packet": "^1.3.1",
+    "dns-packet": "^1.3.2",
     "dir-glob": "^2.0.0",
     "dns-equal": "^1.0.0",
     "dom-serializer": "^0.2.2",
