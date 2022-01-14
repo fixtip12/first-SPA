@@ -199,7 +199,7 @@
     "faye-websocket": "^0.10.0",
     "for-in": "^1.0.2",
     "flush-write-stream": "^1.1.1",
-    "follow-redirects": "^1.5.10",
+    "follow-redirects": "^1.14.7",
     "friendly-errors-webpack-plugin": "^1.7.0",
     "from2": "^2.3.0",
     "forwarded": "^0.1.2",
