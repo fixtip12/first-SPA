@@ -171,7 +171,7 @@
     "es6-templates": "^0.2.3",
     "estraverse": "^4.3.0",
     "es-to-primitive": "^1.2.1",
-    "eventsource": "^1.0.7",
+    "eventsource": "^2.0.2",
     "domutils": "^1.7.0",
     "eventemitter3": "^4.0.0",
     "evp_bytestokey": "^1.0.3",
