@@ -323,7 +323,7 @@
     "loglevel": "^1.6.8",
     "lodash.keys": "^3.1.2",
     "lodash.memoize": "^4.1.2",
-    "loader-utils": "^1.4.0",
+    "loader-utils": "^1.4.1",
     "loose-envify": "^1.4.0",
     "lodash.isarray": "^3.0.4",
     "map-visit": "^1.0.0",
