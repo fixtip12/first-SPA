@@ -192,7 +192,7 @@
     "file-loader": "^2.0.0",
     "etag": "^1.8.1",
     "fast-glob": "^2.2.7",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fill-range": "^4.0.0",
     "find-cache-dir": "^2.1.0",
     "finalhandler": "^1.1.2",
